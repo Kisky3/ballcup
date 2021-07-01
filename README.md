@@ -38,8 +38,8 @@ yarn android
 ```
 
 #reference
-[My Journey with React Native Game Engine Part I: Starting the Project]("https://medium.com/@williamyang93/my-journey-with-react-native-game-engine-part-i-starting-the-project-bbebcd2ccf6")
+[My Journey with React Native Game Engine Part I: Starting the Project](https://medium.com/@williamyang93/my-journey-with-react-native-game-engine-part-i-starting-the-project-bbebcd2ccf6)
 
-[My Journey with React Native Game Engine Part II: Adding Touch and Bounce]("https://medium.com/@williamyang93/my-journey-with-react-native-game-engine-part-ii-adding-touch-and-bounce-b9ae3fac06b9")
+[My Journey with React Native Game Engine Part II: Adding Touch and Bounce](https://medium.com/@williamyang93/my-journey-with-react-native-game-engine-part-ii-adding-touch-and-bounce-b9ae3fac06b9)
 
-[expo accelerometer]("https://docs.expo.io/versions/v40.0.0/sdk/accelerometer/")
+[expo accelerometer](https://docs.expo.io/versions/v40.0.0/sdk/accelerometer/)
