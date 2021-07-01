@@ -1,14 +1,14 @@
-# ballcup
+# Ballcup
 RNGM+Matter+sensors
 
-# setup
+# Setup
 setup RN environment
 install expo
 
 ```
 yarn global add expo-cli
 ```
-# init
+# Init
 ```
 expo init ballcap
 ```
@@ -32,12 +32,12 @@ expo init ballcap
 ├── project.txt
 └── yarn.lock
 ```
-# run
+# Run
 ```
 yarn android
 ```
 
-#reference
+# Reference
 [My Journey with React Native Game Engine Part I: Starting the Project](https://medium.com/@williamyang93/my-journey-with-react-native-game-engine-part-i-starting-the-project-bbebcd2ccf6)
 
 [My Journey with React Native Game Engine Part II: Adding Touch and Bounce](https://medium.com/@williamyang93/my-journey-with-react-native-game-engine-part-ii-adding-touch-and-bounce-b9ae3fac06b9)
