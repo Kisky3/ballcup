@@ -1,9 +1,9 @@
 # Ballcup
-RNGM+Matter+sensors
+A small game about ball cup / ReactNative
 
 # Setup
-setup RN environment
-install expo
+1. setup ReactNative environment
+2. install expo
 
 ```
 yarn global add expo-cli
