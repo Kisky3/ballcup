@@ -8,3 +8,7 @@ install expo
 ```
 yarn global add expo-cli
 ```
+# init
+```
+expo init ballcap
+```
