@@ -32,3 +32,7 @@ expo init ballcap
 ├── project.txt
 └── yarn.lock
 ```
+# run
+```
+yarn android
+```
