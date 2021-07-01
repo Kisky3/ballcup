@@ -1,5 +1,10 @@
 # ballcup
 RNGM+Matter+sensors
 
-# install
-RN environment
+# setup
+setup RN environment
+install expo
+
+```
+yarn global add expo-cli
+```
